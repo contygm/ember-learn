@@ -12,3 +12,7 @@ export default Ember.Object.extend( {
   aliasDescription: Ember.computed.alias('fullDescription')
 });
 
+const bulb = Light.create({age: 22});
+bulb.get('aliasdescription');
+
+// computed properties only update when the componenet/template is in use
