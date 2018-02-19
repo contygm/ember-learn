@@ -6,7 +6,9 @@ Description from Udemy: Learn how to build ambitious single-page web application
 ## Getting Started
 
 `ember new` : Create new empty project
-`ember generate model name-of-thing` : Create model and test file
+`ember g model name-of-model` : Generates model and test file
+`ember g route name-of-route` : Generates route, template, test, updates router file
+`ember g route name-of-route --path=/name-of-route`
 
 
 ## Models
