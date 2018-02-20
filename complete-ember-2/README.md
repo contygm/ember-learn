@@ -6,7 +6,7 @@ Description from Udemy: Learn how to build ambitious single-page web application
 
 ## Getting Started
 
-`ember new` : Create new empty project
+`ember new name-of-app` : Create new empty project
 
 `ember g model name-of-model` : Generates model and test file
 
@@ -18,3 +18,6 @@ Description from Udemy: Learn how to build ambitious single-page web application
 ## Models
 
 - Definition: Blue print of data structures
+
+## Models
+- best place for model related actions
